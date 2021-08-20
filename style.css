@@ -283,7 +283,7 @@ span{
     height:auto;
     width: 100%;
     background:linear-gradient(#23c9,#fff);
-    background-image: url(/img/minibar.jpg);
+    background-image: url(img/minibar.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -398,7 +398,7 @@ span{
         display: flex;
         justify-content: space-evenly;
         flex-wrap: wrap;
-        background-image: url(/img/banner2.jpg);
+        background-image: url(img/banner2.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -438,7 +438,7 @@ span{
     .lebel_footer {
         padding-top: 40px;
         font-size: 16px;
-        color: var(--text_color);
+        color: #2e2e2e;
         margin-bottom: 40px;
     }
     
@@ -447,7 +447,7 @@ span{
         height: 95px;
         float: left;
         margin-right: 20px;
-        background-image: url(/img/footer1.jpg);
+        background-image: url(img/footer1.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -457,7 +457,7 @@ span{
         height: 95px;
         float: left;
         margin-right: 20px;
-        background-image: url(/img/footer23.jpg);
+        background-image: url(img/footer23.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -474,7 +474,7 @@ span{
     
     .children h3 {
         font-size: 16px;
-        color: var(--box_color);
+        color: #d80606;
         display: inline-block;
         margin-top: 10px;
     }
@@ -483,18 +483,18 @@ span{
         display: block;
         margin: 10px 0;
         font-size: 12px;
-        color: var(--text_color);
+        color: #2e2e2e;
     }
     
     .details {
         margin: 10px;
         font-size: 12px;
-        color: var(--text_color);
+        color: #2e2e2e;
     }
     
     .email_color {
         text-decoration: none;
-        color: var(--box_color);
+        color: #d80606;
     }
     
     .child3 {
